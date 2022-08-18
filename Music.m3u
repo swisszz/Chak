@@ -1,0 +1,289 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3AxDF5e",NBT
+http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3PsL3Dm",Dhamma TV Thailand
+https://live.zoom072.com/ch8/ch8.m3u8
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3R57wIK",Thai PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:0001 tvg-id="SRF1.ch" tvg-chno="1" group-title="Entertainment" tvg-logo="https://bit.ly/3A1dItw",Kronehit Music
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="SRF1.ch" tvg-chno="1" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/sf_1_hd.png", SRF 1 HD
+https://streams.wilmaa.com/m3u8/get?channelId=sf_1_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="SRF2.ch" tvg-chno="2" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/sf_2_hd.png", SRF 2 HD
+https://streams.wilmaa.com/m3u8/get?channelId=sf_2_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="3plus.ch" tvg-chno="3" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/3_plus_hd.png", 3+ HD
+https://streams.wilmaa.com/m3u8/get?channelId=3_plus_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="TV24.ch" tvg-chno="4" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tv24_hd.png", TV24 HD
+https://streams.wilmaa.com/m3u8/get?channelId=tv24_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="Pro7.ch" tvg-chno="5" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/pro7_ch_hd.png", ProSieben HD
+https://streams.wilmaa.com/m3u8/get?channelId=pro7_ch_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="RTL.ch" tvg-chno="6" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rtl_ch_hd.png", RTL CH HD
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_ch_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="RTL2.ch" tvg-chno="7" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rtl_2_hd.png", RTL2 HD
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_2_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="4plus.ch" tvg-chno="8" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/4_plus_hd.png", 4+ HD
+https://streams.wilmaa.com/m3u8/get?channelId=4_plus_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="5plus.ch" tvg-chno="9" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/5_plus_hd.png", 5+ HD
+https://streams.wilmaa.com/m3u8/get?channelId=5_plus_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="TV25.ch" tvg-chno="10" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tv_25_hd.png", TV 25 HD
+https://streams.wilmaa.com/m3u8/get?channelId=tv_25_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="Vox.ch" tvg-chno="11" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/vox_hd.png", VOX HD
+https://streams.wilmaa.com/m3u8/get?channelId=vox_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="Sat1.ch" tvg-chno="12" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/sat_1_hd.png", SAT.1 HD
+https://streams.wilmaa.com/m3u8/get?channelId=sat_1_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="Kabel.ch" tvg-chno="13" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/kabel_1_hd.png", Kabel Eins HD
+https://streams.wilmaa.com/m3u8/get?channelId=kabel_1_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="Sixx.ch" tvg-chno="14" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/sixx_hd.png", sixx HD
+https://streams.wilmaa.com/m3u8/get?channelId=sixx_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="Puls8.ch" tvg-chno="15" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/puls_8.png", Puls acht
+https://streams.wilmaa.com/m3u8/get?channelId=puls_8&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="6plus.ch" tvg-chno="16" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/6_plus_hd.png", 6+ HD
+https://streams.wilmaa.com/m3u8/get?channelId=6_plus_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="S1.ch" tvg-chno="17" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/s1tv_hd.png", S1TV HD
+https://streams.wilmaa.com/m3u8/get?channelId=s1tv_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="RTLNitro.ch" tvg-chno="18" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rtl_nitro_hd.png", RTL NITRO HD
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_nitro_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="DMax.ch" tvg-chno="19" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/dmax.png", DMAX
+https://streams.wilmaa.com/m3u8/get?channelId=dmax&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="ProSiebenMaxx.ch" tvg-chno="20" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/pro7_maxx.png", ProSieben MAXX
+https://streams.wilmaa.com/m3u8/get?channelId=pro7_maxx&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="ARD.de" tvg-chno="21" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/ard_hd.png", Das Erste HD
+https://streams.wilmaa.com/m3u8/get?channelId=ard_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="ZDF.de" tvg-chno="22" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/zdf_hd.png", ZDF HD
+https://streams.wilmaa.com/m3u8/get?channelId=zdf_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="ORF1.at" tvg-chno="23" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/orf_1_hd.png", ORF Eins HD
+https://streams.wilmaa.com/m3u8/get?channelId=orf_1_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="ORF2.at" tvg-chno="24" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/orf_2_hd.png", ORF 2 HD
+https://streams.wilmaa.com/m3u8/get?channelId=orf_2_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="Sat1Gold.de" tvg-chno="25" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/sat_1_gold.png", Sat.1 Gold
+https://streams.wilmaa.com/m3u8/get?channelId=sat_1_gold&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="ZDFneo.de" tvg-chno="26" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/zdf_neo_hd.png", ZDF Neo HD
+https://streams.wilmaa.com/m3u8/get?channelId=zdf_neo_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="ZDFinfo.de" tvg-chno="27" group-title="Information" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/zdf_info_hd.png", ZDF Info HD
+https://streams.wilmaa.com/m3u8/get?channelId=zdf_info_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="ORF3.at" tvg-chno="28" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/orf3.png", ORF3
+https://streams.wilmaa.com/m3u8/get?channelId=orf3&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="ARTE.de" tvg-chno="29" group-title="Culture" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/arte_de_hd.png", ARTE DE HD
+https://streams.wilmaa.com/m3u8/get?channelId=arte_de_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/3_sat_hd.png", 3sat HD
+https://streams.wilmaa.com/m3u8/get?channelId=3_sat_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="SuperRTL.ch" tvg-chno="31" group-title="Kids" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/super_rtl_hd.png", SUPER RTL HD
+https://streams.wilmaa.com/m3u8/get?channelId=super_rtl_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="TLC.de" tvg-chno="32" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tlc_de.png", TLC Germany
+https://streams.wilmaa.com/m3u8/get?channelId=tlc_de&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="ComedyCentral/VIVA.ch" tvg-chno="33" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/viva_hd.png", Comedy Central
+https://streams.wilmaa.com/m3u8/get?channelId=viva_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="Nickelodeon.ch" tvg-chno="34" group-title="Kids" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/nick_cc_hd.png", Nick Schweiz
+https://streams.wilmaa.com/m3u8/get?channelId=nick_cc_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="disneychannel.de" tvg-chno="35" group-title="Kids" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/disney_channel_de.png", Disney Channel
+https://streams.wilmaa.com/m3u8/get?channelId=disney_channel_de&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="Kika.de" tvg-chno="36" group-title="Kids" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/kika_hd.png", Kika HD
+https://streams.wilmaa.com/m3u8/get?channelId=kika_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="TOGGOplus.de" tvg-chno="37" group-title="Kids" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/toggo_plus.png", TOGGO plus
+https://streams.wilmaa.com/m3u8/get?channelId=toggo_plus&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="Eurosport1.de" tvg-chno="38" group-title="Sports" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/eurosport.png", Eurosport
+https://streams.wilmaa.com/m3u8/get?channelId=eurosport&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="Sport1HD.de" tvg-chno="39" group-title="Sports" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/sport_1.png", Sport1
+https://streams.wilmaa.com/m3u8/get?channelId=sport_1&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="TCZoom.ch" tvg-chno="40" group-title="Sports" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/teleclub_zoom_hd.png", Teleclub Zoom
+https://streams.wilmaa.com/m3u8/get?channelId=teleclub_zoom_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="WELT.de" tvg-chno="41" group-title="Information" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/n24_hd.png", WELT
+https://streams.wilmaa.com/m3u8/get?channelId=n24_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="ntv.ch" tvg-chno="42" group-title="Information" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/n_tv_hd.png", n-tv HD
+https://streams.wilmaa.com/m3u8/get?channelId=n_tv_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="SRFinfo.ch" tvg-chno="43" group-title="Information" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/sf_info_hd.png", SRF info HD
+https://streams.wilmaa.com/m3u8/get?channelId=sf_info_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="phoenix.de" tvg-chno="44" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/phoenix_hd.png", Phoenix HD
+https://streams.wilmaa.com/m3u8/get?channelId=phoenix_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="KabelEinsDoku.de" tvg-chno="45" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/kabel1_doku.png", Kabel 1 Doku
+https://streams.wilmaa.com/m3u8/get?channelId=kabel1_doku&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="N24Doku.de" tvg-chno="46" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/n24_doku.png", N24 Doku
+https://streams.wilmaa.com/m3u8/get?channelId=n24_doku&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="RTLPlus.de" tvg-chno="47" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rtl_plus.png", RTLplus
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_plus&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="ServusHD.de" tvg-chno="48" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/servus_tv_hd.png", Servus HD
+https://streams.wilmaa.com/m3u8/get?channelId=servus_tv_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="Tele5.de" tvg-chno="49" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tele_5.png", Tele 5
+https://streams.wilmaa.com/m3u8/get?channelId=tele_5&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="Swiss1.ch" tvg-chno="50" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/swiss1_tv_hd.png", Swiss 1 TV
+https://streams.wilmaa.com/m3u8/get?channelId=swiss1_tv_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="StarTV.ch" tvg-chno="51" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/star_tv.png", Star TV
+https://streams.wilmaa.com/m3u8/get?channelId=star_tv&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="TeleZuri.ch" tvg-chno="52" group-title="Regional" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tele_zuri_hd.png", TeleZüri HD
+https://streams.wilmaa.com/m3u8/get?channelId=tele_zuri_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="TeleBaern.ch" tvg-chno="53" group-title="Regional" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/telebaern.png", TeleBärn
+https://streams.wilmaa.com/m3u8/get?channelId=telebaern&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="TeleBasel.ch" tvg-chno="54" group-title="Regional" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/telebasel.png", Telebasel
+https://streams.wilmaa.com/m3u8/get?channelId=telebasel&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="TeleTop.ch" tvg-chno="55" group-title="Regional" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tele_top_zh.png", TELE TOP ZH
+https://streams.wilmaa.com/m3u8/get?channelId=tele_top_zh&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="TSO.ch" tvg-chno="56" group-title="Regional" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tso_hd.png", TV Südostschweiz HD
+https://streams.wilmaa.com/m3u8/get?channelId=tso_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="SWR.de" tvg-chno="57" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/swr_hd.png", SWR HD
+https://streams.wilmaa.com/m3u8/get?channelId=swr_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="WDR.de" tvg-chno="58" group-title="Regional" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/wdr_hd.png", WDR HD
+https://streams.wilmaa.com/m3u8/get?channelId=wdr_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="BR.de" tvg-chno="59" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/br_hd.png", Bayrischer Rundfunk
+https://streams.wilmaa.com/m3u8/get?channelId=br_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="ndr.de" tvg-chno="60" group-title="Regional" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/ndr_hd.png", NDR HD
+https://streams.wilmaa.com/m3u8/get?channelId=ndr_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="MDRS-Anhalt.de" tvg-chno="61" group-title="Regional" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/mdr.png", MDR
+https://streams.wilmaa.com/m3u8/get?channelId=mdr&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="HR.de" tvg-chno="62" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/hr.png", HR
+https://streams.wilmaa.com/m3u8/get?channelId=hr&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="rbbBerlin.de" tvg-chno="63" group-title="Regional" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rbb.png", rbb Berlin
+https://streams.wilmaa.com/m3u8/get?channelId=rbb&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="MTV.ch" tvg-chno="64" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/mtv_ch_hd.png", MTV CH HD
+https://streams.wilmaa.com/m3u8/get?channelId=mtv_ch_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="Euronews.nws" tvg-chno="65" group-title="Information" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/euronews_de.png", euronews DE
+https://streams.wilmaa.com/m3u8/get?channelId=euronews_de&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="Wetterfernsehen.ch" tvg-chno="66" group-title="Information" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/wetter_tv.png", Wetter TV
+https://streams.wilmaa.com/m3u8/get?channelId=wetter_tv&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="ARD-alpha.de" tvg-chno="67" group-title="Information" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/ard_alpha.png", ARD-alpha
+https://streams.wilmaa.com/m3u8/get?channelId=ard_alpha&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="VOXup.de" tvg-chno="68" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/vox_up_de.png", VOXup
+https://streams.wilmaa.com/m3u8/get?channelId=vox_up_de&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="WeltDerWunder.de" tvg-chno="69" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/weltderwunder.png", Welt der Wunder
+https://streams.wilmaa.com/m3u8/get?channelId=weltderwunder&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="One.de" tvg-chno="70" group-title="Music" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/einsfestival.png", ONE
+https://streams.wilmaa.com/m3u8/get?channelId=einsfestival&profile=8
