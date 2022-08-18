@@ -787,3 +787,7 @@ http://195.150.20.243/RMFFM48
 https://radio.ascultatare.ro/8044/stream
 #EXTINF:-1 tvg-name="Radio 2000" group-title="Italien und Südtirol" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio2000it.png",Radio 2000
 http://159.69.217.78:8000/?radio=radio2000.mp3
+#EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3K2Si3M",Request THAILAND Radio
+https://cast.requestradio.in.th:810/stream.mp3
+#EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3dJl2mh",Request THAILANDLUKTUNG Radio
+https://cast.requestradio.in.th:830/stream.mp3
