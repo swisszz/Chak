@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3pulO95",Amarin TV Thailand
+https://amarin-ks7jcc.cdn.byteark.com/fleetstream/amarin-live/240p/index.m3u8
+#EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3CiUbHY",Thairaht TV Thailand
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3c1NZta",Topline Music Thailand
+https://cdn-th-vip.livestreaming.in.th/ToplineChannel/ToplineChannel/playlist.m3u8 
+#EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3QYeMFc",CTB Thailand
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3AAc2ZE",Channel 8 Thailand
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3AxDF5e",NBT
 http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3PsL3Dm",Dhamma TV Thailand
@@ -791,3 +801,11 @@ http://159.69.217.78:8000/?radio=radio2000.mp3
 https://cast.requestradio.in.th:810/stream.mp3
 #EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3dJl2mh",Request THAILANDLUKTUNG Radio
 https://cast.requestradio.in.th:830/stream.mp3
+#EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3PC2UIf",Lannaradio Thailand
+https://inter.lannaradio.com/radio/8000/radio.mp3
+#EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3T25ZUM",Request THAILAND Pop
+https://cast.requestradio.in.th:820/stream.mp3
+#EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3A3By7Y",Wow Radio Thailand
+http://203.159.93.109:8000/radio;stream.mp3
+#EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3PAFnXW",Sukson Looktung
+https://stream.pjcdn.com:8200/1/.mp3
