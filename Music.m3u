@@ -1,14 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3pulO95",Amarin TV Thailand
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3pulO95",Amarin TV Thailand
 https://amarin-ks7jcc.cdn.byteark.com/fleetstream/amarin-live/240p/index.m3u8
-#EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3CiUbHY",Thairaht TV Thailand
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3CiUbHY",Thairaht TV Thailand
 https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3c1NZta",Topline Music Thailand
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3c1NZta",Topline Music Thailand
 https://cdn-th-vip.livestreaming.in.th/ToplineChannel/ToplineChannel/playlist.m3u8 
-#EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3QYeMFc",CTB Thailand
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3QYeMFc",CTB Thailand
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-#EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3AAc2ZE",Channel 8 Thailand
-http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3QYeMFc",Channel 8 Thailand
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3AxDF5e",NBT
 http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3PsL3Dm",Dhamma TV Thailand
