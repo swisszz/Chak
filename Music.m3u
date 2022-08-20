@@ -806,3 +806,10 @@ https://cast.requestradio.in.th:820/stream.mp3
 http://203.159.93.109:8000/radio;stream.mp3
 #EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3PAFnXW",Sukson Looktung
 https://stream.pjcdn.com:8200/1/.mp3
+#EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3c88p3v",Musichitz Looktung 
+http://112.121.150.133:9386/autodj
+#EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3wFNn3x",Looktung Lakthai
+http://radio11.plathong.net:8896/;stream
+#EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3QFysxZ", Looktung Network
+https://media.login.in.th:8443/smilehost/8200/
+
