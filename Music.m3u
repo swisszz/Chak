@@ -296,10 +296,6 @@ https://bit.ly/3QAOZU4
 https://bit.ly/3A6uur7
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3QTfkNh",1HD Music Television
 https://bit.ly/3AnxzDs
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3QXsjNN",TV Inside Germany
-https://bit.ly/3PP2rCB
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3e29TwX",TV Movies Deutsch
-https://bit.ly/3pRxUcw
 #EXTINF:-1 tvg-name="100'5 Alemannia" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png",100'5 Alemannia
 https://stream.dashitradio.de/alemannia/mp3-128/stream.mp3
 #EXTINF:-1 tvg-name="100'5 DAS HITRADIO" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png",100'5 DAS HITRADIO
