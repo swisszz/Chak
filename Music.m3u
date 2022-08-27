@@ -294,6 +294,14 @@ https://bit.ly/3QAOZU4
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:0001 tvg-id="One.de" tvg-chno="70" group-title="Music" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/einsfestival.png", ONE
 https://bit.ly/3A6uur7
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3QTfkNh",1HD Music Television
+https://bit.ly/3AnxzDs
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3ARXXqt", Animals England
+https://bit.ly/3PW0014
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3QXsjNN",TV Inside Germany
+https://bit.ly/3PP2rCB
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3e29TwX",TV Movies Deutsch
+https://bit.ly/3pRxUcw
 #EXTINF:-1 tvg-name="100'5 Alemannia" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png",100'5 Alemannia
 https://stream.dashitradio.de/alemannia/mp3-128/stream.mp3
 #EXTINF:-1 tvg-name="100'5 DAS HITRADIO" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png",100'5 DAS HITRADIO
