@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0,The Batman
+http://195.201.202.85/r70/ml-content/movie/TheBatman1080p-MovieLand.mp4
+#PIC:https://movie.idevcreations.com/wp-content/uploads/2022/04/74xTEgt7R36Fpooo50r9T25onhq-185x278.jpg
+#DETAIL:Year:2022,Story:When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3cp4mQI",ธรรมจักร
 https://bit.ly/3AtE0Vr
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Tl0WPz", Thairath TV
