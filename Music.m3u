@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Tl0WPz", Thairath TV
 https://bit.ly/3csw0w7
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3TpmlHd",Nation TV
-https://bit.ly/3pRErnB
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Tr0D5x",Workpoint TV
-https://bit.ly/3KoIaCN
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3TpmlHd",Nation TV
-https://bit.ly/3pRErnB
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Tr0D5x",Workpoint TV
-https://bit.ly/3KoIaCN
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3pulO95",Amarin TV Thailand
 https://bit.ly/3TdNwEW
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3c1NZta",Topline Music Thailand
