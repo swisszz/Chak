@@ -10,8 +10,8 @@ http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3QYeMFc",Channel 8 Thailand
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3AxDF5e",NBT
 http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Bgw1N1",Telebern
-https://bit.ly/3KQgDKt
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3cXNksS",Music ONE
+https://bit.ly/3qe62zt
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3R57wIK",Thai PBS
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:0001 tvg-id="SRF1.ch" tvg-chno="1" group-title="Entertainment" tvg-logo="https://bit.ly/3A1dItw",Kronehit Music
