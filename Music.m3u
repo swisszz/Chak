@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3BMvx1o",Canal+ SPORT HD
+https://bit.ly/3f1gIiU
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3RSiml8", Canal+ SPORT 3HD
+https://bit.ly/3BNHB2y
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3RSGsMJ",Canal+ SPORT 4HD
+https://bit.ly/3Uf4h2R
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3f1hWe0",Canal+ SPORT 2HD
+https://bit.ly/3S5A3gM
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3DyEcWQ",TENNIS HD
+https://bit.ly/3eWQy0C
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3eXnzd5",NS SPORT +HD
+https://bit.ly/3qL1xN7
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/2kRv45Q",Fightbox
 https://bit.ly/3QQKaW3
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3BkzgC5",BT Sport 2
