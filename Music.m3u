@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3xrY6yI",Discovery Shed
+https://bit.ly/3qNptzI
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3djcRNp",POLSAT SPORT FIGHT
 https://bit.ly/3DuXn3C
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3eZY36I", POLSAT SPORT PREMIUM 2
