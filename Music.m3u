@@ -59,3 +59,9 @@ https://bit.ly/3qe62zt
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:0001 tvg-id="SRF1.ch" tvg-chno="1" group-title="Entertainment" tvg-logo="https://bit.ly/3A1dItw",Kronehit Music
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3c88p3v",Musichitz Looktung 
+http://112.121.150.133:9386/autodj
+#EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3wFNn3x",Looktung Lakthai
+http://radio11.plathong.net:8896/;stream
+#EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://bit.ly/3QFysxZ", Looktung Network
+https://media.login.in.th:8443/smilehost/8200/
