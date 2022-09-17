@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3xx9Tfe",color-vision-canal-9
+https://bit.ly/3BlIA8R
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3eZY36I", Rakuten Comedy Movies Test
 https://rakuten-comedymovies-6-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3S8OnoU",Rai 3 Fur Steffan
