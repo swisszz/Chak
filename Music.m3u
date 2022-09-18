@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3S9Umd6",Eurosport 2
+https://bit.ly/3diFY3H
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3BZev0t",Eurosport 1 Rus
+https://bit.ly/3BmJCS1
 #KODIPROP:inputstreamclass=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3eZ1Xgq",Rai 1
