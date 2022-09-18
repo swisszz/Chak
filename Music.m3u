@@ -1,4 +1,8 @@
 #EXTM3U
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Bo04kQ",Chak TESTTTT
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3433&extension=m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3S9Umd6",Eurosport 2
 https://bit.ly/3diFY3H
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3BZev0t",Eurosport 1 Rus
