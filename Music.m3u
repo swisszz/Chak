@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3eZ1Xgq",Rai 1
+https://bit.ly/3RTsQkt
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3BMzByW",Rai 2
+https://bit.ly/3RTsYAt
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3LqTW00",Rai 3
+https://bit.ly/3xUGpIz
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3BP0br5",tve
+https://bit.ly/3LlMfbc
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3dqt2bR",Canal 24 horas
+https://bit.ly/3xy4p3J
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3SbTJ2F",Rai 4
+https://bit.ly/3LuLrAT
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3BrlMEt",Rai 5
+https://bit.ly/3dtIVhD
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3xwGHVF",Rai yoyo
+https://bit.ly/3BLWMJF
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3RWOGDM",Rai scuola
+https://bit.ly/3BJKXCH
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3xxgBBO",Rai Movie
+https://bit.ly/3RVatLQ
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3xUFU19",Rai Premium
+https://bit.ly/3eWkhGT
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3BMzfIA",Rai Sport 1
+https://bit.ly/3RVaHCG
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3LmDMEy",Rai Sport 2
+https://bit.ly/3S83LBU
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Bo04kQ",Dmax italia
+https://bit.ly/3QS6uOW
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3QT24aH",Disney
+https://bit.ly/3ShxY1D
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3DyDl8h",Trace Urban HD
 https://bit.ly/3BpgMAn
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3RScbOb",Magic TV
