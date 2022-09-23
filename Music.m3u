@@ -1,14 +1,12 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3f44W7a",waw
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3f44W7a",waw slovakia
 https://bit.ly/3xMZ9JV
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3SpJBU8",Zenzi
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3SpJBU8",Zenzi slovakia
 https://bit.ly/3R6FkUz
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3ScDOla",TA3 
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3ScDOla",TA3  slovakia
 https://bit.ly/3DOUkmU
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Sd3wGm",joj
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Sd3wGm",joj slovakia
 https://bit.ly/3SvFJ3Q
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3DOy2Sh",TA3 Televízia Live
-https://n15.stv.livebox.sk/stv-tv/886d7a5a560c08ae93bc4b2b741b766c/stv1.smil/chunklist_b1667072.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3xNMRAL",Správy RTVS
 https://n13.stv.livebox.sk/stv-tv/32a03b3071aa831c12c1ac104f8aee45/stv3.smil/chunklist_b950272.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3S9Umd6",Eurosport 2
