@@ -1,4 +1,8 @@
 #EXTM3U
+KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="SRF1.ch" tvg-chno="1" group-title="Entertainment" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/sf_1_hd.png",Chak TESR
+https://e1.cdn.vet/live/ch39/i/ch39i.m3u8/get?channelId=ch39?t=live&profile=8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3S9Umd6",Eurosport 2
 https://bit.ly/3diFY3H
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3BZev0t",Eurosport 1 Rus
