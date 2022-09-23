@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3xNMRAL",Správy RTVS
+https://n2.stv.livebox.sk/stv-tv/9aa35ad16c8e2414231f2c1d94f4fa79/stv1.smil/chunklist_b950272.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3S9Umd6",Eurosport 2
 https://bit.ly/3diFY3H
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3BZev0t",Eurosport 1 Rus
