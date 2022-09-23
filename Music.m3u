@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3f44W7a",waw
+https://bit.ly/3xMZ9JV
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3SpJBU8",Zenzi
+https://bit.ly/3R6FkUz
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3ScDOla",TA3 
+https://bit.ly/3DOUkmU
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Sd3wGm",joj
 https://bit.ly/3SvFJ3Q
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3DOy2Sh",TA3 Televízia Live
@@ -353,8 +359,6 @@ https://bit.ly/3QAOZU4
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:0001 tvg-id="One.de" tvg-chno="70" group-title="Music" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/einsfestival.png", ONE
 https://bit.ly/3A6uur7
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3xx9Tfe",color-vision-canal-9
-https://bit.ly/3BlIA8R
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3eZY36I", Rakuten Comedy Movies Test
 https://rakuten-comedymovies-6-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3S8OnoU",Rai 3 Fur Steffan
