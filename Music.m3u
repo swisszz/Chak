@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Sd3wGm",joj
+https://bit.ly/3SvFJ3Q
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3DOy2Sh",TA3 Televízia Live
 https://n15.stv.livebox.sk/stv-tv/886d7a5a560c08ae93bc4b2b741b766c/stv1.smil/chunklist_b1667072.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3xNMRAL",Správy RTVS
