@@ -1,7 +1,4 @@
 #EXTM3U
-#KODIPROP:inputstreamclass=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3xUFU19",TEST
 https://ztnr.rtve.es/ztnr/1688876.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3R8picS",Óčko Expres slovakia Music
 https://bit.ly/3DOosik
