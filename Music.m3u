@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3R8picS",Óčko Expres slovakia Music
-https://bit.ly/3DOosik
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3BHs3fo",Retro  slovakia Music
-https://bit.ly/3Uz44I4
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3SbpHfQ",JOJ Family slovakia
-https://bit.ly/3f4bXVy
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3SrvRYV",Óčko Star slovakia music
-https://bit.ly/3C6HCyA
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3f44W7a",waw slovakia
-https://bit.ly/3xMZ9JV
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3SpJBU8",Zenzi slovakia
-https://bit.ly/3R6FkUz
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3ScDOla",TA3  slovakia
-https://bit.ly/3DOUkmU
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Sd3wGm",joj slovakia
-https://bit.ly/3SvFJ3Q
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3xNMRAL",Správy RTVS
-https://n13.stv.livebox.sk/stv-tv/32a03b3071aa831c12c1ac104f8aee45/stv3.smil/chunklist_b950272.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3S9Umd6",Eurosport 2
-https://bit.ly/3diFY3H
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3BZev0t",Eurosport 1 Rus
-https://bit.ly/3BmJCS1
 #KODIPROP:inputstreamclass=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3eZ1Xgq",Rai 1
@@ -367,8 +345,6 @@ https://bit.ly/3QAOZU4
 https://bit.ly/3A6uur7
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3eZY36I", Rakuten Comedy Movies Test
 https://rakuten-comedymovies-6-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3S8OnoU",Rai 3 Fur Steffan
-http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3dpH3Xq",Pinkko TVXXL หนังผู้ใหญ่
 https://bit.ly/3qMxxRe
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3UfHcNv",Redlight หนังผู้ใหญ่
