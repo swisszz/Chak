@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVi9j",NBT
+http://bit.do/fVi9f
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVi84",THAI PBS
 http://bit.do/fVi8X
 #KODIPROP:inputstreamclass=inputstream.adaptive
