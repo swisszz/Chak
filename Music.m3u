@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVi84",THAI PBS
+http://bit.do/fVi8X
 #KODIPROP:inputstreamclass=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3eZ1Xgq",Rai 1
