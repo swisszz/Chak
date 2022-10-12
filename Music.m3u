@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpWn",Sony Action+1
+http://bit.do/fVpWx
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpWs",Sony Movies+1
+http://bit.do/fVpWv
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpWA",Drama+1
+http://bit.do/fVpWz
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpWL",ANIMAL PLANET
+http://bit.do/fVpWF
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpWU",NAT GEO WILD Fur ELOY
+http://bit.do/fVpWP
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpW2",NAT GEO PEOPLE
+http://bit.do/fVpWW
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpV9",EXTREME SPORTS
 http://bit.do/fVpV8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpV6",TVP Sport
