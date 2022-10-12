@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpV9",EXTREME SPORTS
+http://bit.do/fVpV8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpV6",TVP Sport
 http://bit.do/fVpV5
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpVW",LIVE SPORTS CYTAVISION
