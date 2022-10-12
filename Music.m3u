@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpXe",VIASAT NATURE English
+http://bit.do/fVpXb
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpXh",BBC EARTH
+http://bit.do/fVpXf
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpW7",DISCOVERY FUR ELOY
 http://bit.do/fVpW6
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpWn",Sony Action+1
