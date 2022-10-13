@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpWU",NAT GEO WILD HD CHAK
+https://bit.ly/3RXIJ8M
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3CV6Pwm",Nation geographic hd CHAK
+https://bit.ly/3CzXoBr
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpWL",ANIMAL PLANET CHAK
+https://bit.ly/3VoXeVW
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3S7otCB",DISCOVERY HD CHAK
 https://bit.ly/3TkPYss
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpXp",Eurosport 2 DE
@@ -393,8 +399,6 @@ https://rakuten-comedymovies-6-it.samsung.wurl.tv/playlist.m3u8
 https://bit.ly/3qMxxRe
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3UfHcNv",Redlight หนังผู้ใหญ่
 https://bit.ly/3xvjumQ
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3qJkU9h",Bein LaLiga
-https://bit.ly/3xs0DZK
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3BgMvU8",MTV Block Party
 https://bit.ly/3eZdpIH
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3QLUWwt",MTV Biggest Pop
@@ -431,16 +435,11 @@ https://bit.ly/3csw0w7
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3BMq2jj", BT Sport 1
 https://bit.ly/3DwGNQM
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3LkkYWu",Sky Sport 1
-https://bit.ly/3doauJh
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3c1NZta",Topline Music Thailand
-https://cdn-th-vip.livestreaming.in.th/ToplineChannel/ToplineChannel/playlist.m3u8 
+https://bit.ly/3doauJh 
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3QYeMFc",CTB Thailand
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3QYeMFc",Channel 8 Thailand
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3AxDF5e",NBT
 http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3cXNksS",Music ONE
-https://bit.ly/3qe62zt
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3R57wIK",Thai PBS
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:0001 tvg-id="SRF1.ch" tvg-chno="1" group-title="Entertainment" tvg-logo="https://bit.ly/3A1dItw",Kronehit Music
