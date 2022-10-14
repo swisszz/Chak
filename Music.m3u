@@ -111,6 +111,8 @@ https://bit.ly/3BpgMAn
 https://bit.ly/3f0O0yj
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3eYgNUp",Box Hits
 https://bit.ly/3S9l4Ta
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:0001 tvg-id="SRF1.ch" tvg-chno="1" group-title="Entertainment" tvg-logo="https://bit.ly/3fo465B", SRF 1 HD
 https://bit.ly/3QAIPDq
 #KODIPROP:inputstreamclass=inputstream.adaptive
