@@ -1,16 +1,14 @@
 #EXTM3U
-#KODIPROP:inputstreamclass=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVqVC",AMARIN TV
-http://bit.do/fVqVy
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpWU",NAT GEO WILD HD CHAK
 https://bit.ly/3rVReq4
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3CV6Pwm",Nation geographic hd CHAK
 https://bit.ly/3CzXoBr
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpWL",ANIMAL PLANET CHAK
 https://bit.ly/3VoXeVW
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3S7otCB",DISCOVERY HD CHAK
-https://bit.ly/3TkPYss
+https://bit.ly/3S6Rldb
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpXp",Eurosport 2 DE
 http://bit.do/fVpXn
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpXe",VIASAT NATURE English
