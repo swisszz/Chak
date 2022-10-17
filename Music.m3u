@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3D41VNF",beiN Sport 1
+https://bit.ly/3CJeGf8
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3s3kwTO",beiN Sport 2
+https://bit.ly/3eDDVHX
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3S8G1x6",beiN Sport 3
+https://bit.ly/3EOTcQI
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3S7qa1R",SPOTV 2
+https://bit.ly/3yO1vc1
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpXp",Eurosport 2 DE
 http://bit.do/fVpXn
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpXe",VIASAT NATURE English
