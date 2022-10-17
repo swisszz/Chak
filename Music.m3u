@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3TycDBL",Siamnewstv
+https://bit.ly/3EX4G4G
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3yObsG7",Thai new
+https://bit.ly/3EOYfkr
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3D41VNF",beiN Sport 1
 https://bit.ly/3CJeGf8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3s3kwTO",beiN Sport 2
