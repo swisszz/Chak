@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3SkKHjJ",NRJ HITS
+https://bit.ly/3EYhOXr
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3VA8MG1",BOX TV
 https://bit.ly/3TsmRTT
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3s5P9rG",MMA JUNKIE
