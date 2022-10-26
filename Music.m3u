@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="ฟรีทีวี", CHAK TEST YOUTUBE MOVIES
+https://youtube.com/embed/itecQiRltqc
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3TZdw6p", Diema Sport 
 https://bit.ly/3fcwac7
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Dw4rMZ", Diema Sport 2 HD
