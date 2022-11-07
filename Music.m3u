@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3tbjcz0",JKN 18
+https://tinyurl.com/bssaj87t
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Tgamul",MCOT
+https://tinyurl.com/3bz3tuwm
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3FUMwB6",MONO 29
+https://tinyurl.com/5d2322pk
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3zTSXAM",AMARIN TV
 https://tinyurl.com/upy76mj5
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3fNIb8b",THAIRATH TV
