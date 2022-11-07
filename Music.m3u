@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3zTSXAM",AMARIN TV
+https://tinyurl.com/upy76mj5
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3fNIb8b",THAIRATH TV
+https://tinyurl.com/ytzrfxdw
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3NHVHaa",NATION TV
+https://tinyurl.com/54y25c84
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3tdyLpy",THAI CH3
 https://tinyurl.com/2p89ax25
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3TZdw6p", Diema Sport 
