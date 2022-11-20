@@ -1,22 +1,5 @@
 #EXTM3U
-#KODIPROP:inputstreamclass=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpWU",NAT GEO WILD *DE
-https://tinyurl.com/4z4yfpj4
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3tbjcz0",JKN 18
-https://tinyurl.com/bssaj87t
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Tgamul",MCOT
-https://tinyurl.com/3bz3tuwm
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3FUMwB6",MONO 29
-https://tinyurl.com/5d2322pk
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3zTSXAM",AMARIN TV
-https://tinyurl.com/upy76mj5
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3fNIb8b",THAIRATH TV
-https://tinyurl.com/ytzrfxdw
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3NHVHaa",NATION TV
-https://tinyurl.com/54y25c84
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3tdyLpy",THAI CH3
-https://tinyurl.com/2p89ax25
+
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3TZdw6p", Diema Sport 
 https://bit.ly/3fcwac7
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Dw4rMZ", Diema Sport 2 HD
@@ -85,14 +68,12 @@ http://bit.do/fVpWP
 http://bit.do/fVpWW
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpV9",EXTREME SPORTS
 http://bit.do/fVpV8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpV6",TVP Sport
-http://bit.do/fVpV5
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVpVW",LIVE SPORTS CYTAVISION
 http://bit.do/fVpVT
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVj6x",Portalfoxmix Music
 http://bit.do/fVj6v
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVi9L",MCOT HD
-http://bit.do/fVi9H
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Xjmu0L",New 1
+https://bit.ly/2BLFWvl
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVi9Y",TOP NEW
 http://bit.do/fVi9U
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="http://bit.do/fVi95",CH5
