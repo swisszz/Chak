@@ -1,8 +1,4 @@
 #EXTM3U
-#KODIPROP:inputstreamclass=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:0001 tvg-id="Eurosport1.de" tvg-chno="38" group-title="Sports" tvg-logo="https://bit.ly/3BMGVsZ", Eurosport 1 ENG
-https://bit.ly/3TTIEDV
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3TZdw6p", Diema Sport 
 https://bit.ly/3fcwac7
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Dw4rMZ", Diema Sport 2 HD
