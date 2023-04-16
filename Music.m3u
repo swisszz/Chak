@@ -4,10 +4,10 @@
 #EXTINF:-1,ADULTS | KRONE HIT MUSIC
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-#EXTINF:-1 tvg-id="NatGeoWild" group-title="Knowledge" tvg-logo="https://aqfadtv.xyz/logos/NationalGeographicWild.png" ch-number="204",National Geographic Wild (Indonesia Feed)
+#EXTINF:-1 tvg-id="NatGeoWild" group-title="Knowledge" tvg-logo="https://aqfadtv.xyz/logos/NationalGeographicWild.png" ch-number="204",National Geographic Wild 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/NatGeoWild
-https://www.inwiptv.com/player_demo.php?channel=89781
+https://www.inwiptv.com/player_demo.php?channel=89781.m3u8
 
 #EXTINF:-1,ADULTS | Livecams
 http://cdn.adultiptv.net/livecams.m3u8
