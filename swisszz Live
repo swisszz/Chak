@@ -12,7 +12,7 @@ http://appdootv2.dootvde.com:1935/live/50005_nbt.stream.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3R57wIK",Thai PBS
 http://appdootv2.dootvde.com:1935/live/50006_tpbs_hd.stream.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3I9vka8",Thai  Nation
-http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/360p/index.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Ao17Ck",Thai TNN 24
 https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3bASVEu",WORKPOINT-HD
