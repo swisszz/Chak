@@ -45,4 +45,45 @@ https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_obr1n222/protocol/https/format/applehttp/flavorIds/1_ilmyd94i,1_ndclh5za,1_y4atcpo4/a.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://shorturl.at/kY2Kc",DELUXE MUSIC Hit
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2DcBtlw",ONE-HD server 2
+https://hls-nginx.v2h-cdn.com/hls/onemyStream.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2DcBtlw",ONE-HD server 2
+https://hls-nginx.v2h-cdn.com/hls/onemyStream.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/O3HsP",True4u server 2
+https://hls-nginx.v2h-cdn.com/hls/true4umyStream.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2C67BGW",Workpoint server 2
+https://hls-nginx.v2h-cdn.com/hls/workpointmyStream.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2NvJNBw",PPTV server 2
+https://hls-nginx.v2h-cdn.com/hls/pptvmyStream.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/30cnmXP",CH-5 server 2
+https://lb-mvtv-live.v2h-cdn.com/redirect/tv5hd/tv5hd.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2F4SLSc",NEW TV server 2
+https://lb-mvtv-live.v2h-cdn.com/redirect/new/new.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2K45M1z",TNN24 server 2
+https://lb-mvtv-live.v2h-cdn.com/redirect/tnn24/tnn24.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2PW7MN3",THAI-CH3 server 2
+https://hls-nginx.v2h-cdn.com/hls/ch3myStream.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2JIPMlj",THAI-CH7-HD server 2
+https://hls-nginx.v2h-cdn.com/hls/ch7myStream.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2K2JEES",Thairath HD server 2
+https://hls-nginx.v2h-cdn.com/hls/thairathmyStream.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/36uPW9d",Mono-29 server 2
+https://hls-nginx.v2h-cdn.com/hls/MonomyStream.m3u8 
+#EXTINF:-1 tvg-logo="https://bit.ly/2ZVt9kx",Workpoint-TV
+http://live2.thaimomo.com/live/chworkpointt-1/chunklist_w393796937.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2QRR6oQ",GMM25 server 2
+https://hls-nginx.v2h-cdn.com/hls/gmm25myStream.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/XZ6Td",Thaichaiyo server 2
+https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2EOBZqC",NBT server 2
+https://lb-mvtv-live.v2h-cdn.com/redirect/nbt/nbt.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/33I9TYX",CH-8 server 2
+https://hls-nginx.v2h-cdn.com/hls/ch8myStream.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/1tX8B",Thai pbs server 2
+https://lb-mvtv-live.v2h-cdn.com/redirect/tpbs/tpbs.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/AYMS7",Truesport 7 server 2
+https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3OYPDcO",Amarin TV server 2
+https://hls-nginx.v2h-cdn.com/hls/amarinmyStream.m3u8
+
 
