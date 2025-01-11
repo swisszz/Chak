@@ -85,5 +85,9 @@ https://lb-mvtv-live.v2h-cdn.com/redirect/tpbs/tpbs.stream?type=m3u8
 https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3OYPDcO",Amarin TV server 2
 https://hls-nginx.v2h-cdn.com/hls/amarinmyStream.m3u8
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://shorturl.at/rBbCx",Animal Planet
+https://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://shorturl.at/gRoIB",MTV Hit
+https://fl2.moveonjoy.com/MTV_U/index.m3u8
 
 
