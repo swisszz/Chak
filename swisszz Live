@@ -39,6 +39,14 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3ybR40A",KroneHit TV Music
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 tvg-name="DELUXE MUSIC DANCE" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://shorturl.at/vsHG9",DELUXE -DANCE
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime East" tvg-logo="https://shorturl.at/LxIeV" group-title="Mussic",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime East" tvg-logo="https://shorturl.at/jVR0k" group-title="Movies",Radio 51
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime East" tvg-logo="https://rb.gy/e0oecw" group-title="Music",Kiss TV
+https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://shorturl.at/MAnn6",T Sport
 https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8 
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://shorturl.at/XSTGA",TeleBärn HD
