@@ -4,35 +4,35 @@ https://rb.gy/2dgyqg
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3bO7e8L",Thai CH8
 https://edge2a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3yxQA5l",CH3 HD
-http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
+https://edge2a.v2h-cdn.com/hd_3/hd3.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3aaooNF",Thai CH5
-http://appdootv2.dootvde.com:1935/live/50002_ch5.stream.smil/playlist.m3u8
+https://edge2a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3bLWyYe",MCOT-HD
-http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
+https://edge2a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3ukT3hQ",Thai NBT
-http://appdootv2.dootvde.com:1935/live/50005_nbt.stream.smil/playlist.m3u8
+https://edge2a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3R57wIK",Thai PBS
-http://appdootv2.dootvde.com:1935/live/50006_tpbs_hd.stream.smil/playlist.m3u8
+https://edge2a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3I9vka8",Thai  Nation
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/360p/index.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Ao17Ck",Thai TNN 24
 https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3bASVEu",WORKPOINT-HD
-http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/playlist.m3u8
+https://edge2a.v2h-cdn.com/hd_workpoint/hd_workpoint.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://shorturl.at/yJHpm",Tru4u
-http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
+https://edge2a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3ycjkjB",Thai GMM25-HD
-http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
+https://edge2a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3I90aQq",Thai Mono 29
 https://edge2a.v2h-cdn.com/mono/mono.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://shorturl.at/E7bcM",ONE HD
-http://appdootv2.dootvde.com:1935/live/50022_one_hd.stream.smil/playlist.m3u8
+https://edge2a.v2h-cdn.com/hd_one/hd_one.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3I9ttlP",Thairath TV 720p
-http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
+https://edge2a.v2h-cdn.com/hd_thairath/hd_thairath.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3OYPDcO",Amarin HD TV
-http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
+https://edge2a.v2h-cdn.com/hd_amarin/hdamarin.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Ajfg3T",Thai PPTV
-http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+https://edge2a.v2h-cdn.com/hd_pptv/hd_pptv.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3R57wIK",Thai PBS
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://shorturl.at/PSb9n",Jkn
