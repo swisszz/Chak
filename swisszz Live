@@ -61,4 +61,10 @@ http://news1.live14.com/stream/news1_hi.m3u8
 https://s6.hopslan.com/servus2222/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://n9.cl/rn3jv",ORF1
 https://s6.hopslan.com/orfx12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://n9.cl/8xm2s",Kabel 1 Doku
+https://s6.hopslan.com/dokux1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://n9.cl/ki42rd",Dmax
+https://s6.hopslan.com/dmax1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://n9.cl/6i2s46",Tele 5
+https://s6.hopslan.com/tele5x1/tracks-v1a1/mono.m3u8
 
