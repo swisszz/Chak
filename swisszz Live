@@ -77,4 +77,6 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/XZ6Td",Thaichaiyo server 2
 https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
+#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://n9.cl/b7jml", Natgowild
+http://mu3241218.oknirvana.club:8880/live/12mc120100/98694674/29189.m3u8
 
