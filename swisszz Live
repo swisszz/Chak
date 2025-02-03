@@ -1,89 +1,89 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://n9.cl/bmoqe",Thai CHAK-HD
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://n9.cl/bmoqe",Thai CHAK-HD
 https://rb.gy/2dgyqg
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3bO7e8L",Thai CH8
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://bit.ly/3bO7e8L",Thai CH8
 https://edge2a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3yxQA5l",CH3 HD
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://bit.ly/3yxQA5l",CH3 HD
 https://edge2a.v2h-cdn.com/hd_3/hd3.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3aaooNF",Thai CH5
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://bit.ly/3aaooNF",Thai CH5
 https://edge2a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3bLWyYe",MCOT-HD
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://bit.ly/3bLWyYe",MCOT-HD
 https://edge2a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3ukT3hQ",Thai NBT
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://bit.ly/3ukT3hQ",Thai NBT
 https://edge2a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3R57wIK",Thai PBS
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://bit.ly/3R57wIK",Thai PBS
 https://edge2a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3I9vka8",Thai  Nation
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://bit.ly/3I9vka8",Thai  Nation
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/360p/index.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Ao17Ck",Thai TNN 24
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://bit.ly/3Ao17Ck",Thai TNN 24
 https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3bASVEu",WORKPOINT-HD
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://bit.ly/3bASVEu",WORKPOINT-HD
 https://edge2a.v2h-cdn.com/hd_workpoint/hd_workpoint.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://shorturl.at/yJHpm",Tru4u
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://shorturl.at/yJHpm",Tru4u
 https://edge2a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3ycjkjB",Thai GMM25-HD
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://bit.ly/3ycjkjB",Thai GMM25-HD
 https://edge2a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3I90aQq",Thai Mono 29
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://bit.ly/3I90aQq",Thai Mono 29
 https://edge2a.v2h-cdn.com/mono/mono.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://n9.cl/9mg4t2",ONE HD
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://n9.cl/9mg4t2",ONE HD
 https://edge2a.v2h-cdn.com/hd_one/hd_one.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3I9ttlP",Thairath TV 720p
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://bit.ly/3I9ttlP",Thairath TV 720p
 https://edge2a.v2h-cdn.com/hd_thairath/hd_thairath.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3OYPDcO",Amarin HD TV
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://bit.ly/3OYPDcO",Amarin HD TV
 https://edge2a.v2h-cdn.com/hd_amarin/hdamarin.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3Ajfg3T",Thai PPTV
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://bit.ly/3Ajfg3T",Thai PPTV
 https://edge2a.v2h-cdn.com/hd_pptv/hd_pptv.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3R57wIK",Thai PBS
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://bit.ly/3R57wIK",Thai PBS
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://shorturl.at/PSb9n",Jkn
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://shorturl.at/PSb9n",Jkn
 https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://bit.ly/3ybR40A",KroneHit TV Music
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://shorturl.at/MAnn6",T Sport
+https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8 
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://rb.gy/v6qhe8",News 1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:0001 tvg-id="Thai iptv" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://shorturl.at/XZ6Td",Thaichaiyo 
+https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
+#EXTINF:-1 tvg-name="KroneHit" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://bit.ly/3ybR40A",KroneHit TV Music
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 tvg-name="DELUXE" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://shorturl.at/kY2Kc",DELUXE MUSIC Hit
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-name="DELUXE MUSIC DANCE" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://shorturl.at/vsHG9",DELUXE -DANCE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://shorturl.at/LxIeV", Deejay Music
+#EXTINF:-1 tvg-name="Deejay Music" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://shorturl.at/LxIeV", Deejay Music
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://rb.gy/e0oecw",Kiss  TV Music
+#EXTINF:-1 tvg-name="Kiss Music" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://rb.gy/e0oecw",Kiss  TV Music
 https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://shorturl.at/MAnn6",T Sport
-https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8 
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://shorturl.at/XSTGA",TeleBärn HD
-https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_obr1n222/protocol/https/format/applehttp/flavorIds/1_ilmyd94i,1_ndclh5za,1_y4atcpo4/a.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://shorturl.at/kY2Kc",DELUXE MUSIC Hit
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://shorturl.at/rBbCx",Animal Planet
-https://fl2.moveonjoy.com/Animal_Planet/index.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://shorturl.at/gRoIB",MTV Hit
+#EXTINF:-1 tvg-name="MTV" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://shorturl.at/gRoIB",MTV Hit
 https://fl2.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:-1 tvg-logo="https://rb.gy/v6qhe8",News 1
-http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1 tvg-logo="https://n9.cl/brjxz",Servus
-https://s6.hopslan.com/servus2222/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://n9.cl/rn3jv",ORF1
-https://s6.hopslan.com/orfx12/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://n9.cl/8xm2s",Kabel 1 Doku
-https://s6.hopslan.com/dokux1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://n9.cl/ki42rd",Dmax
-https://s6.hopslan.com/dmax1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://n9.cl/6i2s46",Tele 5
-https://s6.hopslan.com/tele5x1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://n9.cl/0pgz5",TLC
-https://strm.hdtvizlecanli.com/live/tlc.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://n9.cl/i74qi",Now Rock
+#EXTINF:-1 tvg-name="Now Rock" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://n9.cl/i74qi",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://n9.cl/4z1lt",Now 70s
+#EXTINF:-1 tvg-name="Now 70s" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://n9.cl/4z1lt",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Culture" tvg-logo="https://n9.cl/4z1lt",Now 80s
+#EXTINF:-1 tvg-name="Now 80s" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://n9.cl/4z1lt",Now 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/XZ6Td",Thaichaiyo server 2
-https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://n9.cl/wjaz9", Natgowild USA
+#EXTINF:-1 tvg-name="Deutsch TV" tvg-id="DeLuxeMusicDance.de" group-title="Deutsch" tvg-logo="https://shorturl.at/XSTGA",TeleBärn HD
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_obr1n222/protocol/https/format/applehttp/flavorIds/1_ilmyd94i,1_ndclh5za,1_y4atcpo4/a.m3u8
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Docu" tvg-logo="https://shorturl.at/rBbCx",Animal Planet
+https://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-name="Deutsch TV" tvg-id="DeLuxeMusicDance.de" group-title="Deutsch" tvg-logo="https://n9.cl/brjxz",Servus
+https://s6.hopslan.com/servus2222/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Deutsch TV" tvg-id="DeLuxeMusicDance.de" group-title="Deutsch" tvg-logo="https://n9.cl/rn3jv",ORF1
+https://s6.hopslan.com/orfx12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Deutsch TV" tvg-id="DeLuxeMusicDance.de" group-title="Deutsch" tvg-logo="https://n9.cl/8xm2s",Kabel 1 Doku
+https://s6.hopslan.com/dokux1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Deutsch TV" tvg-id="DeLuxeMusicDance.de" group-title="Deutsch" tvg-logo="https://n9.cl/ki42rd",Dmax
+https://s6.hopslan.com/dmax1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Deutsch TV" tvg-id="DeLuxeMusicDance.de" group-title="Deutsch" tvg-logo="https://n9.cl/6i2s46",Tele 5
+https://s6.hopslan.com/tele5x1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Deutsch TV" tvg-id="DeLuxeMusicDance.de" group-title="Deutsch" tvg-logo="https://n9.cl/0pgz5",TLC
+https://strm.hdtvizlecanli.com/live/tlc.m3u8
+#EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://n9.cl/wjaz9", Natgowild USA
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://n9.cl/usna7h",Discovery USA
+#EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://n9.cl/usna7h",Discovery USA
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://n9.cl/b7jml", Natgowild
+#EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://n9.cl/b7jml", Natgowild
 http://mu3241218.oknirvana.club:8880/live/12mc120100/98694674/29189.m3u8
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://n9.cl/m25clw",Discovery
+#EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://n9.cl/m25clw",Discovery
 http://mu0332412206.oknirvana.club:8880/live/12mc120100/98694674/2652.m3u8?
 
 
