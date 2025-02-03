@@ -43,6 +43,8 @@ https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:0001 tvg-id="Thai iptv" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://shorturl.at/XZ6Td",Thaichaiyo 
 https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
+#EXTINF:0001 tvg-id="Thai iptv" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://n9.cl/k9xnfe",Esan TV
+https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
 #EXTINF:-1 tvg-name="KroneHit" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://bit.ly/3ybR40A",KroneHit TV Music
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 tvg-name="DELUXE" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://shorturl.at/kY2Kc",DELUXE MUSIC Hit
