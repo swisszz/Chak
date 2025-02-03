@@ -79,4 +79,8 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
 #EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://n9.cl/b7jml", Natgowild
 http://mu3241218.oknirvana.club:8880/live/12mc120100/98694674/29189.m3u8
+#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://n9.cl/m25clw",Discovery
+http://mu0332412206.oknirvana.club:8880/live/12mc120100/98694674/2652.m3u8?
+
+
 
