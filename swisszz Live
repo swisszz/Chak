@@ -93,6 +93,17 @@ http://mu3241218.oknirvana.club:8880/live/12mc120100/98694674/29189.m3u8
 https://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://shorturl.at/rBbCx",Animal Planet
 http://mu3241218.oknirvana.club:8880/live/12mc120100/98694674/2679.m3u8
+#EXTINF:0001 tvg-id="Radio" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/KJTkP",SRF 3
+http://stream.srg-ssr.ch/m/drs3/mp3_128   srf3
+#EXTINF:0001 tvg-id="Radio" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/GQY8A",Thai hit Radio
+http://112.121.150.133:9386/autodj
+#EXTINF:0001 tvg-id="Radio" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/6Et7s",My105 Radio
+http://stream01.my105.ch/my105charts.mp3
+#EXTINF:0001 tvg-id="Radio" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/Bbsg9",SuksonRadio
+http://stream.pjcdn.com:9000/SuksonRadio stream.mp3
+#EXTINF:0001 tvg-id="Radio" tvg-chno="30" group-title="Radio" tvg-logo="https://2cm.es/RxpY",Luktung lakthai
+http://radio11.plathong.net:8896/;stream  
+
 
 
 
