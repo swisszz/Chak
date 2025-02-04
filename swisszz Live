@@ -79,6 +79,8 @@ https://s6.hopslan.com/orfx12/tracks-v1a1/mono.m3u8
 https://s6.hopslan.com/dokux1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Deutsch TV" tvg-id="DeLuxeMusicDance.de" group-title="Deutsch" tvg-logo="https://n9.cl/ki42rd",Dmax
 https://s6.hopslan.com/dmax1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Deutsch TV" tvg-id="DeLuxeMusicDance.de" group-title="Deutsch" tvg-logo="https://n9.cl/ki42rd",Dmax server2
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83446
 #EXTINF:-1 tvg-name="Deutsch TV" tvg-id="DeLuxeMusicDance.de" group-title="Deutsch" tvg-logo="https://n9.cl/6i2s46",Tele 5
 https://s6.hopslan.com/tele5x1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Deutsch TV" tvg-id="DeLuxeMusicDance.de" group-title="Deutsch" tvg-logo="https://n9.cl/0pgz5",TLC
@@ -89,12 +91,26 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://2cm.es/RxrZ",Discovery USA
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://2cm.es/RxrZ",Discovery server2
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83478
 #EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://n9.cl/b7jml", Natgowild
 http://mu3241218.oknirvana.club:8880/live/12mc120100/98694674/29189.m3u8
 #EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://2cm.es/RxrG",Animal Planet USA
 https://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://shorturl.at/rBbCx",Animal Planet
 http://mu3241218.oknirvana.club:8880/live/12mc120100/98694674/2679.m3u8
+#EXTINF:-1 tvg-name="Movies" tvg-id="DeLuxeMusicDance.de" group-title="Movies" tvg-logo="https://shorturl.at/V0ysb",SKY CINEMA ACTION HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83503    
+#EXTINF:-1 tvg-name="Movies" tvg-id="DeLuxeMusicDance.de" group-title="Movies" tvg-logo="https://shorturl.at/mVpN8",CRIME + INVESTIGATION HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83517   
+#EXTINF:-1 tvg-name="Movies" tvg-id="DeLuxeMusicDance.de" group-title="Movies" tvg-logo="https://shorturl.at/gTWpM",SKY CINEMA SPECIAL HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83513 
+#EXTINF:-1 tvg-name="Movies" tvg-id="DeLuxeMusicDance.de" group-title="Movies" tvg-logo="https://shorturl.at/cqNbm", CINEMAX MOREMAX 
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/25421   
+#EXTINF:-1 tvg-name="Movies" tvg-id="DeLuxeMusicDance.de" group-title="Movies" tvg-logo="https://2cm.es/P2BS",CINEMAX MOVIEMAX
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/25422  
+#EXTINF:-1 tvg-name="Movies" tvg-id="DeLuxeMusicDance.de" group-title="Movies" tvg-logo="https://2cm.es/RyaO",Fight Network
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/105021  
 #EXTINF:0001 tvg-id="Radio" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/KJTkP",SRF 3
 http://stream.srg-ssr.ch/m/drs3/mp3_128   srf3
 #EXTINF:0001 tvg-id="Radio" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/GQY8A",Thai hit Radio
