@@ -87,6 +87,18 @@ https://s6.hopslan.com/tele5x1/tracks-v1a1/mono.m3u8
 https://strm.hdtvizlecanli.com/live/tlc.m3u8
 #EXTINF:-1 tvg-name="Deutsch TV" tvg-id="DeLuxeMusicDance.de" group-title="Deutsch" tvg-logo="https://n9.cl/0pgz5",TLC serve2
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83453
+#EXTINF:-1 tvg-name="Movies" tvg-id="DeLuxeMusicDance.de" group-title="Movies" tvg-logo="https://shorturl.at/V0ysb",SKY CINEMA ACTION HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83503    
+#EXTINF:-1 tvg-name="Movies" tvg-id="DeLuxeMusicDance.de" group-title="Movies" tvg-logo="https://shorturl.at/mVpN8",CRIME + INVESTIGATION HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83517   
+#EXTINF:-1 tvg-name="Movies" tvg-id="DeLuxeMusicDance.de" group-title="Movies" tvg-logo="https://shorturl.at/gTWpM",SKY CINEMA SPECIAL HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83513 
+#EXTINF:-1 tvg-name="Movies" tvg-id="DeLuxeMusicDance.de" group-title="Movies" tvg-logo="https://shorturl.at/cqNbm", CINEMAX MOREMAX 
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/25421   
+#EXTINF:-1 tvg-name="Movies" tvg-id="DeLuxeMusicDance.de" group-title="Movies" tvg-logo="https://2cm.es/P2BS",CINEMAX MOVIEMAX
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/25422  
+#EXTINF:-1 tvg-name="Movies" tvg-id="DeLuxeMusicDance.de" group-title="Movies" tvg-logo="https://2cm.es/RyaO",Fight Network
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/105021 
 #EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://2cm.es/Rxs9", Natgowild USA
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://2cm.es/RxrZ",Discovery USA
@@ -99,29 +111,6 @@ http://mu3241218.oknirvana.club:8880/live/12mc120100/98694674/29189.m3u8
 https://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://shorturl.at/rBbCx",Animal Planet
 http://mu3241218.oknirvana.club:8880/live/12mc120100/98694674/2679.m3u8
-#EXTINF:-1 tvg-name="Movies" tvg-id="DeLuxeMusicDance.de" group-title="Movies" tvg-logo="https://shorturl.at/V0ysb",SKY CINEMA ACTION HD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83503    
-#EXTINF:-1 tvg-name="Movies" tvg-id="DeLuxeMusicDance.de" group-title="Movies" tvg-logo="https://shorturl.at/mVpN8",CRIME + INVESTIGATION HD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83517   
-#EXTINF:-1 tvg-name="Movies" tvg-id="DeLuxeMusicDance.de" group-title="Movies" tvg-logo="https://shorturl.at/gTWpM",SKY CINEMA SPECIAL HD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83513 
-#EXTINF:-1 tvg-name="Movies" tvg-id="DeLuxeMusicDance.de" group-title="Movies" tvg-logo="https://shorturl.at/cqNbm", CINEMAX MOREMAX 
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/25421   
-#EXTINF:-1 tvg-name="Movies" tvg-id="DeLuxeMusicDance.de" group-title="Movies" tvg-logo="https://2cm.es/P2BS",CINEMAX MOVIEMAX
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/25422  
-#EXTINF:-1 tvg-name="Movies" tvg-id="DeLuxeMusicDance.de" group-title="Movies" tvg-logo="https://2cm.es/RyaO",Fight Network
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/105021  
-#EXTINF:0001 tvg-id="Radio" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/KJTkP",SRF 3
-http://stream.srg-ssr.ch/m/drs3/mp3_128   srf3
-#EXTINF:0001 tvg-id="Radio" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/GQY8A",Thai hit Radio
-http://112.121.150.133:9386/autodj
-#EXTINF:0001 tvg-id="Radio" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/6Et7s",My105 Radio
-http://stream01.my105.ch/my105charts.mp3
-#EXTINF:0001 tvg-id="Radio" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/Bbsg9",SuksonRadio
-http://stream.pjcdn.com:9000/SuksonRadio stream.mp3
-#EXTINF:0001 tvg-id="Radio" tvg-chno="30" group-title="Radio" tvg-logo="https://2cm.es/RxpY",Luktung lakthai
-http://radio11.plathong.net:8896/;stream  
-
 
 
 
