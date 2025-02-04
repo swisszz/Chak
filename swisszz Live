@@ -67,7 +67,7 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="NRJ" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://n9.cl/as4x8",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/3/media.m3u8
-#EXTINF:-1 tvg-name="7xMusic" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://n9.cl/fk322",7xMusic
+#EXTINF:-1 tvg-name="7xMusic" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://2cm.es/Rxsw",7xMusic
 https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1 tvg-name="Deutsch TV" tvg-id="DeLuxeMusicDance.de" group-title="Deutsch" tvg-logo="https://shorturl.at/XSTGA",TeleBärn HD
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_obr1n222/protocol/https/format/applehttp/flavorIds/1_ilmyd94i,1_ndclh5za,1_y4atcpo4/a.m3u8
@@ -83,13 +83,13 @@ https://s6.hopslan.com/dmax1/tracks-v1a1/mono.m3u8
 https://s6.hopslan.com/tele5x1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Deutsch TV" tvg-id="DeLuxeMusicDance.de" group-title="Deutsch" tvg-logo="https://n9.cl/0pgz5",TLC
 https://strm.hdtvizlecanli.com/live/tlc.m3u8
-#EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://n9.cl/wjaz9", Natgowild USA
+#EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://2cm.es/Rxs9", Natgowild USA
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://n9.cl/d38zp",Discovery USA
+#EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://2cm.es/RxrZ",Discovery USA
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://n9.cl/b7jml", Natgowild
 http://mu3241218.oknirvana.club:8880/live/12mc120100/98694674/29189.m3u8
-#EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://n9.cl/z5piz",Animal Planet USA
+#EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://2cm.es/RxrG",Animal Planet USA
 https://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://shorturl.at/rBbCx",Animal Planet
 http://mu3241218.oknirvana.club:8880/live/12mc120100/98694674/2679.m3u8
