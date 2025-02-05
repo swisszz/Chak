@@ -9,8 +9,6 @@ https://dunyanhls.wns.live/hls/stream.m3u8
 https://eslahtvhls.wns.live/hls/stream.m3u8
 #EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/KJTkP",lmanTv
 https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8
-#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/KJTkP",Kayhan Tv
-https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
 #EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/KJTkP",Sharq Radio TV
 https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8
 #EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/KJTkP",Shamshad TV
