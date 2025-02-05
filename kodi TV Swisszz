@@ -1,17 +1,24 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/Bbsg9",AMC
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Afghanistan" tvg-logo="https://shorturl.at/Bbsg9",AMC
 https://amchls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/KJTkP",Bahar TV
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Afghanistan" tvg-logo="https://shorturl.at/KJTkP",Bahar TV
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
-#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/KJTkP",dunyan
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Afghanistan" tvg-logo="https://shorturl.at/KJTkP",dunyan
 https://dunyanhls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/KJTkP",Eslan Tv
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Afghanistan" tvg-logo="https://shorturl.at/KJTkP",Eslan Tv
 https://eslahtvhls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/KJTkP",lmanTv
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Afghanistan" tvg-logo="https://shorturl.at/KJTkP",lmanTv
 https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8
-#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/KJTkP",Sharq Radio TV
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Afghanistan" tvg-logo="https://shorturl.at/KJTkP",Sharq Radio TV
 https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/KJTkP",Shamshad TV
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Afghanistan" tvg-logo="https://shorturl.at/KJTkP",Shamshad TV
 https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
-
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Afghanistan" tvg-logo="https://shorturl.at/KJTkP",ATA Sport
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/04.m3u8
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Afghanistan" tvg-logo="https://shorturl.at/KJTkP",dds Sport
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Afghanistan" tvg-logo="https://shorturl.at/KJTkP",ANM
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Afghanistan" tvg-logo="https://shorturl.at/KJTkP",https://shorturl.at/Ignes
+https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8
 
