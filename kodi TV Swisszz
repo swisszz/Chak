@@ -1,63 +1,19 @@
 #EXTM3U
-#EXTINF:-1 ,Unknown_2
-http://123.31.36.68/live.m3u8?c=vstv360&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
-#EXTINF:-1 ,Unknown_3
-https://tv.thbl.vn/live/tv/tv.m3u8
-#EXTINF:-1 ,Unknown_4
-https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
-#EXTINF:-1 ,Unknown_6
-https://tv.ctvcamau.vn/live/tv/tv.m3u8
-#EXTINF:-1 ,Unknown_7
-http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
-#EXTINF:-1 ,Unknown_12
-http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
-#EXTINF:-1 ,Unknown_13
-http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
-#EXTINF:-1 ,Unknown_14
-https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
-#EXTINF:-1 ,Unknown_16
-http://123.31.36.68/live.m3u8?c=vstv365&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
-#EXTINF:-1 ,Unknown_17
-https://wse.hatinhtv.net/live/httv1/playlist.m3u8
-#EXTINF:-1 ,Unknown_18
-https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/playlist.m3u8
-#EXTINF:-1 ,Unknown_19
-https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/playlist.m3u8
-#EXTINF:-1 ,Unknown_20
-https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
-#EXTINF:-1 ,Unknown_23
-http://210.245.20.94/hls/ktv1.m3u8
-#EXTINF:-1 ,Unknown_24
-https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 ,Unknown_25
-https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 ,Unknown_27
-http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
-#EXTINF:-1 ,Unknown_28
-https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
-#EXTINF:-1 ,Unknown_36
-https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
-#EXTINF:-1 ,Unknown_37
-http://113.161.4.48:8080/phuyen/tv/index.m3u8
-#EXTINF:-1 ,Unknown_40
-http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
-#EXTINF:-1 ,Unknown_43
-https://5dcab9aed5331.streamlock.net/SET1/livestream/playlist.m3u8
-#EXTINF:-1 ,Unknown_44
-https://5dcabf026b188.streamlock.net/SET22/livestream/playlist.m3u8
-#EXTINF:-1 ,Unknown_45
-https://lbs-us1.suprememastertv.com/720p.m3u8
-#EXTINF:-1 ,Unknown_49
-https://live.trt.com.vn/TRT-Online/playlist.m3u8
-#EXTINF:-1 ,Unknown_50
-http://thtg.vn:8001/thtg.m3u8
-#EXTINF:-1 ,Unknown_51
-https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
-#EXTINF:-1 ,Unknown_52
-https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
-#EXTINF:-1 ,Unknown_54
-https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/playlist.m3u8
-#EXTINF:-1 ,Unknown_55
-http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
-#EXTINF:-1 ,Unknown_64
-https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist.m3u8
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/Bbsg9",AMC
+https://amchls.wns.live/hls/stream.m3u8
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/KJTkP",Bahar TV
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/KJTkP",dunyan
+https://dunyanhls.wns.live/hls/stream.m3u8
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/KJTkP",Eslan Tv
+https://eslahtvhls.wns.live/hls/stream.m3u8
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/KJTkP",lmanTv
+https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/KJTkP",Kayhan Tv
+https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/KJTkP",Sharq Radio TV
+https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Radio" tvg-logo="https://shorturl.at/KJTkP",Shamshad TV
+https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
+
+
