@@ -21,4 +21,18 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
 #EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Afghanistan" tvg-logo="https://shorturl.at/KJTkP",https://shorturl.at/Ignes
 https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Afghanistan" tvg-logo="https://shorturl.at/KJTkP", Ich kenne den Kanalnamen nicht.Viel Spaß
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Afghanistan" tvg-logo="https://shorturl.at/KJTkP",Ich kenne den Kanalnamen nicht.Viel Spaß
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/index.m3u8
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Afghanistan" tvg-logo="https://shorturl.at/KJTkP",Ich kenne den Kanalnamen nicht.Viel Spaß
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Afghanistan" tvg-logo="https://shorturl.at/KJTkP",Ich kenne den Kanalnamen nicht.Viel Spaß
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Afghanistan" tvg-logo="https://shorturl.at/KJTkP",Ich kenne den Kanalnamen nicht.Viel Spaß
+https://live.relentlessinnovations.net:1936/sadaehaq/sadaehaq/playlist.m3u8
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Afghanistan" tvg-logo="https://shorturl.at/KJTkP",Ich kenne den Kanalnamen nicht.Viel Spaß
+https://fflive-darya-educationtv.b-cdn.net/master.m3u8
+#EXTINF:0001 tvg-id="Afghanistan" tvg-chno="30" group-title="Afghanistan" tvg-logo="https://shorturl.at/KJTkP",Ich kenne den Kanalnamen nicht.Viel Spaß
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 
