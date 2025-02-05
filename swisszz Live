@@ -45,6 +45,8 @@ http://news1.live14.com/stream/news1_hi.m3u8
 https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
 #EXTINF:0001 tvg-id="Thai iptv" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://n9.cl/k9xnfe",Esan TV
 https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
+#EXTINF:-1 tvg-name="7xMusic" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://shorturl.at/I8DcJ",Pop Latino
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/12450
 #EXTINF:-1 tvg-name="KroneHit" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://bit.ly/3ybR40A",KroneHit TV Music
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 tvg-name="DELUXE" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://shorturl.at/kY2Kc",DELUXE MUSIC Hit
@@ -97,8 +99,6 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/25421   
 #EXTINF:-1 tvg-name="Movies" tvg-id="DeLuxeMusicDance.de" group-title="Movies" tvg-logo="https://2cm.es/P2BS",CINEMAX MOVIEMAX
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/25422  
-#EXTINF:-1 tvg-name="Movies" tvg-id="DeLuxeMusicDance.de" group-title="Movies" tvg-logo="https://2cm.es/RyaO",Fight Network
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/105021 
 #EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://2cm.es/Rxs9", Natgowild USA
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://2cm.es/RxrZ",Discovery USA
@@ -111,6 +111,16 @@ http://mu3241218.oknirvana.club:8880/live/12mc120100/98694674/29189.m3u8
 https://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://shorturl.at/rBbCx",Animal Planet
 http://mu3241218.oknirvana.club:8880/live/12mc120100/98694674/2679.m3u8
+#EXTINF:-1 tvg-name="Sport" tvg-id="DeLuxeMusicDance.de" group-title="Sport" tvg-logo="https://2cm.es/RyaO",Fight Network
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/105021 
+#EXTINF:-1 tvg-name="Sport" tvg-id="DeLuxeMusicDance.de" group-title="Sport" tvg-logo="https://shorturl.at/YQV6r",Eurosport 2 HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112699
+#EXTINF:-1 tvg-name="Sport" tvg-id="DeLuxeMusicDance.de" group-title="Sport" tvg-logo="https://shorturl.at/pEdbg",Eurosport 1 HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/4243
+#EXTINF:-1 tvg-name="Sport" tvg-id="DeLuxeMusicDance.de" group-title="Sport" tvg-logo="https://shorturl.at/pEdbg",Eurosport 1 SD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112698
+#EXTINF:-1 tvg-name="Sport" tvg-id="DeLuxeMusicDance.de" group-title="Sport" tvg-logo="https://shorturl.at/8QKFg",Fight
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112767
 
 
 
