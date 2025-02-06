@@ -85,6 +85,8 @@ https://s6.hopslan.com/dmax1/tracks-v1a1/mono.m3u8
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83446
 #EXTINF:-1 tvg-name="Deutsch TV" tvg-id="DeLuxeMusicDance.de" group-title="Deutsch" tvg-logo="https://n9.cl/6i2s46",Tele 5
 https://s6.hopslan.com/tele5x1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Deutsch TV" tvg-id="DeLuxeMusicDance.de" group-title="Deutsch" tvg-logo="https://n9.cl/0pgz5",TLC Eng
+http://defaultgen.com:3050/BenVoodoo/hTvRi8jZRZ/507994
 #EXTINF:-1 tvg-name="Deutsch TV" tvg-id="DeLuxeMusicDance.de" group-title="Deutsch" tvg-logo="https://n9.cl/0pgz5",TLC
 https://strm.hdtvizlecanli.com/live/tlc.m3u8
 #EXTINF:-1 tvg-name="Deutsch TV" tvg-id="DeLuxeMusicDance.de" group-title="Deutsch" tvg-logo="https://n9.cl/0pgz5",TLC serve2
