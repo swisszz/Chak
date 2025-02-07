@@ -171,7 +171,11 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueH2.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
 #EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="True AsianMore" tvg-logo="https://shorturl.at/qsDGt",TRUE SPARK PLAY
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truesparkplay.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://n9.cl/bbbq6" group-title="ช่องทรูวิชั่น",True Sport 1
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/true1.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://n9.cl/7isgu" group-title="ช่องทรูวิชั่น",True Sport 2
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/true2.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://n9.cl/17et2d" group-title="ช่องทรูวิชั่น",True Sport 3
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/true3.m3u8 
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://n9.cl/k2osc" group-title="ช่องทรูวิชั่น",True Sport 5
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/true5.m3u8
