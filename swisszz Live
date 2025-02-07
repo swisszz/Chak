@@ -127,6 +127,12 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112767
 #EXTINF:-1 tvg-name="Sport" tvg-id="DeLuxeMusicDance.de" group-title="Sport" tvg-logo="https://n9.cl/7pmxq",Billard
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 tvg-name="Sport" tvg-id="DeLuxeMusicDance.de" group-title="Sport" tvg-logo="https://2cm.es/ROfh",HiSports
+#EXTVLCOPT:http-user-agent
+http://49.0.64.96:8007/HiSports
+#EXTINF:-1 tvg-name="Sport" tvg-id="DeLuxeMusicDance.de" group-title="Sport" tvg-logo="https://shorturl.at/8rF6s",HIFIGHT
+#EXTVLCOPT:http-user-agent
+http://49.0.64.96:8007/HIFIGHT
 #EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="True_Series" tvg-logo="https://n9.cl/32sji",True_Series
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
 #EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="True Movie Hits" tvg-logo="https://n9.cl/b1q9mm",True Movie Hits
@@ -189,42 +195,4 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/HBOTHAI.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/HBOFAMILY.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://n9.cl/99o0y" group-title="ช่องทรูวิชั่น",HBO HITS
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/HBOHits.m3u8
-#EXTINF:-1 group-title="Movies PREMIUM PLAY TV" tvg-logo="https://shorturl.at/xRFLT",IZAAMOVIE
-#EXTVLCOPT:http-user-agent
-http://203.154.243.89:11001/izaa?m3u8
-#EXTINF:-1 group-title="MoviesPREMIUM PLAY TV" tvg-logo="https://shorturl.at/xRFLT",IDTOON
-#EXTVLCOPT:http-user-agent
-http://49.0.64.96:8007/Cartoonumi
-#EXTINF:-1 group-title="MoviesPREMIUM PLAY TV" tvg-logo="https://shorturl.at/xRFLT",Universal
-#EXTVLCOPT:http-user-agent
-http://45.144.165.187:8080/playidtv1/12345/17237
-#EXTINF:-1 group-title="MoviesPREMIUM PLAY TV" tvg-logo="https://shorturl.at/xRFLT",IDMovie
-#EXTVLCOPT:http-user-agent
-http://49.0.64.96:8007/PING
-#EXTINF:-1 group-title="MoviesPREMIUM PLAY TV" tvg-logo="https://shorturl.at/xRFLT",AMAZING
-#EXTVLCOPT:http-user-agent
-http://49.0.64.96:8007/AMAZING
-#EXTINF:-1 group-title="MoviesPREMIUM PLAY TV" tvg-logo="https://shorturl.at/xRFLT",Animal
-#EXTVLCOPT:http-user-agent
-http://49.0.64.96:8007/Animal
-#EXTINF:-1 group-title="MoviesPREMIUM PLAY TV" tvg-logo="https://shorturl.at/xRFLT",Science
-#EXTVLCOPT:http-user-agent
-http://45.144.165.187:8080/playidtv1/12345/84
-#EXTINF:-1 group-title="Movies PREMIUM PLAY TV" tvg-id="" tvg-logo="https://shorturl.at/xRFLT", PlayID Movie
-#EXTVLCOPT:http-user-agent
-http://45.144.165.187:8080/playidtv1/12345/17788
-#EXTINF:-1 group-title="Movies PREMIUM PLAY TV" tvg-id="" tvg-logo="https://shorturl.at/xRFLT", PlayID Movie 2
-#EXTVLCOPT:http-user-agent
-http://45.144.165.187:8080/playidtv1/12345/18833
-#EXTINF:-1 group-title="Movies PREMIUM PLAY TV" tvg-id="" tvg-logo="https://shorturl.at/xRFLT", PlayID 
-#EXTVLCOPT:http-user-agent
-http://45.144.165.187:8080/playidtv1/12345/15672
-#EXTINF:-1 group-title="Movies PREMIUM PLAY TV" tvg-id="" tvg-logo="https://shorturl.at/xRFLT",SERIES
-#EXTVLCOPT:http-user-agent
-http://45.144.165.187:8080/playidtv1/12345/17239
-#EXTINF:-1 group-title="Sport PREMIUM PLAY TV" tvg-logo="https://2cm.es/ROfh",HiSports
-#EXTVLCOPT:http-user-agent
-http://49.0.64.96:8007/HiSports
-#EXTINF:-1 group-title="Sport PREMIUM PLAY TV" tvg-logo="https://shorturl.at/8rF6s",HIFIGHT
-#EXTVLCOPT:http-user-agent
-http://49.0.64.96:8007/HIFIGHT
+
