@@ -179,3 +179,11 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/true2.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/true3.m3u8 
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://n9.cl/k2osc" group-title="ช่องทรูวิชั่น",True Sport 5
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/true5.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://n9.cl/lrw9y" group-title="ช่องทรูวิชั่น",AXN
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueAXN.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://n9.cl/b1tre" group-title="ช่องทรูวิชั่น",HBO HD
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/HBOTHAI.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://n9.cl/4f8tz" group-title="ช่องทรูวิชั่น",HBO FAMIL
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/HBOFAMILY.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://n9.cl/99o0y" group-title="ช่องทรูวิชั่น",HBO HITS
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/HBOHits.m3u8
