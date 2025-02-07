@@ -43,8 +43,10 @@ https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:0001 tvg-id="Thai iptv" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://shorturl.at/XZ6Td",Thaichaiyo 
 https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
-#EXTINF:0001 tvg-id="Thai iptv" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://n9.cl/k9xnfe",Esan TV
+#EXTINF:0001 tvg-id="Thai iptv" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://rb.gy/rwo4ea",Esan TV
 https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
+#EXTINF:0001 tvg-id="Thai iptv" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://shorturl.at/72iLk",Lookthongtv
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="7xMusic" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://shorturl.at/I8DcJ",Pop Latino
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/12450
 #EXTINF:-1 tvg-name="KroneHit" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://bit.ly/3ybR40A",KroneHit TV Music
