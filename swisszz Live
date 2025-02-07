@@ -159,6 +159,8 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorewild.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8
 #EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="TrueExploreSci.th" tvg-logo="https://n9.cl/slkna", True Explore Sci
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://n9.cl/j3kd3" group-title="ช่องทรูวิชั่น",DiscoverASIA
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/DiscoverASIA.m3u8
 #EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="Crime+Investigation.th" tvg-name="Crime+Investigation" tvg-logo="https://rb.gy/xdaq88" group-title="ช่องทรูวิชั่น", True Crime+Investigation
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/ci.m3u8
 #EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="BBCLifestyle" tvg-name="BBCLifestyle" tvg-logo="https://rb.gy/91a30o" group-title="ช่องทรูวิชั่น",BBCLifestyle
