@@ -112,6 +112,8 @@ http://45.144.165.187:8080/playidtv1/12345/17237
 #EXTINF:-1 tvg-name="Ducoment" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://shorturl.at/xRFLT",Science
 #EXTVLCOPT:http-user-agent
 http://45.144.165.187:8080/playidtv1/12345/84
+#EXTINF:-1 tvg-name="Movies" tvg-id="DeLuxeMusicDance.de" group-title="Movies" tvg-logo="https://shorturl.at/FsR0s",Animal
+http://45.144.165.187:8080/playidtv1/12345/85
 #EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://2cm.es/Rxs9", Natgowild USA
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="Ducoment" tvg-logo="https://2cm.es/RxrZ",Discovery USA
