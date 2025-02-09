@@ -198,4 +198,16 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/HBOTHAI.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/HBOFAMILY.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://n9.cl/99o0y" group-title="ช่องทรูวิชั่น",HBO HITS
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/HBOHits.m3u8
+#EXTINF:-1 tvg-name="ช่องทรูวิชั่น" tvg-id="DeLuxeMusicDance.de" group-title="ช่องทรูวิชั่น" tvg-logo="https://2cm.es/RUyW",True AsianMore
+#EXTVLCOPT:http-user-agent
+http://45.144.165.187:8080/playidtv1/12345/80
+#EXTINF:-1 tvg-name="ช่องทรูวิชั่น" tvg-id="DeLuxeMusicDance.de" group-title="ช่องทรูวิชั่น" tvg-logo="https://2cm.es/PogH",ACTION TV
+#EXTVLCOPT:http-user-agent
+http://45.144.165.187:8080/playidtv1/12345/81
+#EXTINF:-1 tvg-name="ช่องทรูวิชั่น" tvg-id="DeLuxeMusicDance.de" group-title="ช่องทรูวิชั่น" tvg-logo="https://2cm.es/RUBF",Animal Thai
+#EXTVLCOPT:http-user-agent
+http://49.0.64.96:8007/Animal
+#EXTINF:-1 tvg-name="ช่องทรูวิชั่น" tvg-id="DeLuxeMusicDance.de" group-title="ช่องทรูวิชั่น" tvg-logo="https://2cm.es/RUCI",Science
+#EXTVLCOPT:http-user-agent
+http://45.144.165.187:8080/playidtv1/12345/84
 
