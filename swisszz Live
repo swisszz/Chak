@@ -204,4 +204,20 @@ http://49.0.64.96:8007/Animal
 #EXTINF:-1 tvg-name="ช่องทรูวิชั่น" tvg-id="DeLuxeMusicDance.de" group-title="ช่องทรูวิชั่น" tvg-logo="https://2cm.es/RUCI",Science
 #EXTVLCOPT:http-user-agent
 http://45.144.165.187:8080/playidtv1/12345/84
+#EXTINF:-1 tvg-name="Thai iptv" tvg-id="DeLuxeMusicDance.de" group-title="Thai iptv" tvg-logo="https://2cm.es/RVIU",Siamnews
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:-1 tvg-name="Thai iptv" tvg-id="DeLuxeMusicDance.de" group-title="Thai iptv" tvg-logo="https://2cm.es/RVKS",Thai News
+https://live.thaitvstream.com/play/thainews/index.m3u8
+#EXTINF:-1 tvg-name="ช่องทรูวิชั่น" tvg-id="DeLuxeMusicDance.de" group-title="ช่องทรูวิชั่น" tvg-logo="https://2cm.es/Ppve",rockentertainment
+#EXTVLCOPT:http-user-agent
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/rockentertainmentred.m3u8
+#EXTINF:-1 tvg-name="ช่องทรูวิชั่น" tvg-id="DeLuxeMusicDance.de" group-title="ช่องทรูวิชั่น" tvg-logo="https://2cm.es/PpxO",dreamworks
+#EXTVLCOPT:http-user-agent
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
+#EXTINF:-1 tvg-name="Sport" tvg-id="DeLuxeMusicDance.de" group-title="Sport" tvg-logo="https://2cm.es/RVMa",Sport TV
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+#EXTINF:-1 tvg-name="Sport" tvg-id="DeLuxeMusicDance.de" group-title="Sport" tvg-logo="https://2cm.es/Ppt-",Sport TV 2
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+#EXTINF:-1 tvg-name="Thai iptv" tvg-id="DeLuxeMusicDance.de" group-title="Thai iptv" tvg-logo="https://2cm.es/Ppwa",FunyTV
+https://2cm.es/RVP7
 
