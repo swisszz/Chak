@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://n9.cl/bmoqe",Thai CHAK-HD
 https://rb.gy/2dgyqg
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://2cm.es/RXHU",Thai CHAK7HD
-#EXTVLCOPT:http-user-agent
-https://2cm.es/RXHA
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://bit.ly/3bO7e8L",Thai CH8
 https://edge2a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://bit.ly/3yxQA5l",CH3 HD
